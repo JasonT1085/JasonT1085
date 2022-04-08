@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I sprained my ankle doing the Gangnam style dance when I was 12.
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasonT1085 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasonT1085&theme=radical)
